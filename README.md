@@ -1,6 +1,7 @@
 ![womentech](https://user-images.githubusercontent.com/55853256/102697218-2c90ff80-4202-11eb-8d3d-68326f5e6f56.jpg)
 
-### Hi there!
+### Women!
+### It is time to show your technology skills, let's share and develop more.
 
 <!--
 **VeroBc/VeroBc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently studying in Laboratoria, a Boootcamp that empowers women in technology!
+These are my projects:
+
+- ![womentech](https://github.com/VeroBc/LIM013-fe-burger-queen)
 
   
+My skills:
