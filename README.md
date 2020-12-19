@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 
 These are my projects:
 
-- [womentech](https://github.com/VeroBc/LIM013-fe-burger-queen)
+- [React project - Burger Queen](https://github.com/VeroBc/LIM013-fe-burger-queen)
+
+- [Vanilla JS - Social Network](https://github.com/VeroBc/LIM013-fe-social-network)
+
+- [Backend NodeJs- MD Links](https://github.com/VeroBc/LIM013-fe-md-links)
+
+- [Vanilla JS- Data Lovers](https://github.com/VeroBc/LIM013-data-lovers)
 
   
 My skills:
