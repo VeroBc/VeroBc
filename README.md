@@ -1,7 +1,7 @@
 ![womentech](https://user-images.githubusercontent.com/55853256/102697218-2c90ff80-4202-11eb-8d3d-68326f5e6f56.jpg)
 
 ### Women!
-### It is time to show your technology skills, let's share and develop more.
+### It is time to show your technology skills, let's code and share.
 
 <!--
 **VeroBc/VeroBc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,4 @@ These are my projects:
 - [Vanilla JS- Data Lovers](https://github.com/VeroBc/LIM013-data-lovers)
 
   
-My skills:
+
