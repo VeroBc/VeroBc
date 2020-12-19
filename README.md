@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 These are my projects:
 
-- ![womentech](https://github.com/VeroBc/LIM013-fe-burger-queen)
+- [womentech](https://github.com/VeroBc/LIM013-fe-burger-queen)
 
   
 My skills:
