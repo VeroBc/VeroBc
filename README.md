@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying in Laboratoria, a Boootcamp to empowering women un technology!
- 
+- 🔭 I’m currently studying in Laboratoria, a Boootcamp that empowers women in technology!
+
+  
