@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 These are my projects:
 
-- [ReactJS - Ecommerce](https://github.com/VeroBc/Hack)
+- [ReactJS - Ecommerce](https://github.com/VeroBc/hackaton)
 
 - [Vanilla JS - Social Network](https://github.com/VeroBc/LIM013-fe-social-network)
 
