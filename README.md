@@ -1,7 +1,7 @@
 ![womentech](https://user-images.githubusercontent.com/55853256/102697218-2c90ff80-4202-11eb-8d3d-68326f5e6f56.jpg)
 
 ### Women!
-### It is time to show your technology skills, let's code and share.
+### It is time to code, let's work and share.
 #### ~VeroBc
 
 <!--
